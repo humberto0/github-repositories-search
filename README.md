@@ -2,6 +2,11 @@
 
 This is a React application that allows you to search for Github repositories using the Github API. You can also add your favorite repositories to a local state list and view the details of each repository.
 
+### Home
+
+![Captura de tela de 2023-04-04 20-29-45](https://user-images.githubusercontent.com/15384670/229945362-5c3a7a1e-bed8-4965-8937-e85ce687d44e.png)
+
+
 ## Installation
 
 To install this application, first clone the repository:
